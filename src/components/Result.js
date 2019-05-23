@@ -38,9 +38,9 @@ const Result = () => {
 
     if (!ref) {
       return showDefaultMsg()
-    } else {
-      return <RefItem color={ref.color} label={ref.label} userBMI={userBMI} />
     }
+
+    return <RefItem color={ref.color} label={ref.label} userBMI={userBMI} />
   }
 
   return <div className='ui middle aligned list'>{findUserScore()}</div>
