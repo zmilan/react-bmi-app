@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-bmi-app/static/css/main.e33b24bf.chunk.css",
-    "main.js": "/react-bmi-app/static/js/main.574e7e0b.chunk.js",
-    "main.js.map": "/react-bmi-app/static/js/main.574e7e0b.chunk.js.map",
+    "main.js": "/react-bmi-app/static/js/main.aaa67b2b.chunk.js",
+    "main.js.map": "/react-bmi-app/static/js/main.aaa67b2b.chunk.js.map",
     "runtime~main.js": "/react-bmi-app/static/js/runtime~main.fd03337b.js",
     "runtime~main.js.map": "/react-bmi-app/static/js/runtime~main.fd03337b.js.map",
     "static/js/2.d23e1248.chunk.js": "/react-bmi-app/static/js/2.d23e1248.chunk.js",
     "static/js/2.d23e1248.chunk.js.map": "/react-bmi-app/static/js/2.d23e1248.chunk.js.map",
     "index.html": "/react-bmi-app/index.html",
-    "precache-manifest.fd6df0820d00a7e1e5585aed552c5f47.js": "/react-bmi-app/precache-manifest.fd6df0820d00a7e1e5585aed552c5f47.js",
+    "precache-manifest.b2f71021eea165b07b0fb511e6f98e44.js": "/react-bmi-app/precache-manifest.b2f71021eea165b07b0fb511e6f98e44.js",
     "service-worker.js": "/react-bmi-app/service-worker.js",
     "static/css/main.e33b24bf.chunk.css.map": "/react-bmi-app/static/css/main.e33b24bf.chunk.css.map"
   }
