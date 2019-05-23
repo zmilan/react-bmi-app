@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e33b24bf.chunk.css",
-    "main.js": "/static/js/main.574e7e0b.chunk.js",
-    "main.js.map": "/static/js/main.574e7e0b.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d23e1248.chunk.js": "/static/js/2.d23e1248.chunk.js",
-    "static/js/2.d23e1248.chunk.js.map": "/static/js/2.d23e1248.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cf73455f08c946ae79fae1fbd7896b3b.js": "/precache-manifest.cf73455f08c946ae79fae1fbd7896b3b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e33b24bf.chunk.css.map": "/static/css/main.e33b24bf.chunk.css.map"
+    "main.css": "/react-bmi-app/static/css/main.e33b24bf.chunk.css",
+    "main.js": "/react-bmi-app/static/js/main.574e7e0b.chunk.js",
+    "main.js.map": "/react-bmi-app/static/js/main.574e7e0b.chunk.js.map",
+    "runtime~main.js": "/react-bmi-app/static/js/runtime~main.fd03337b.js",
+    "runtime~main.js.map": "/react-bmi-app/static/js/runtime~main.fd03337b.js.map",
+    "static/js/2.d23e1248.chunk.js": "/react-bmi-app/static/js/2.d23e1248.chunk.js",
+    "static/js/2.d23e1248.chunk.js.map": "/react-bmi-app/static/js/2.d23e1248.chunk.js.map",
+    "index.html": "/react-bmi-app/index.html",
+    "precache-manifest.fd6df0820d00a7e1e5585aed552c5f47.js": "/react-bmi-app/precache-manifest.fd6df0820d00a7e1e5585aed552c5f47.js",
+    "service-worker.js": "/react-bmi-app/service-worker.js",
+    "static/css/main.e33b24bf.chunk.css.map": "/react-bmi-app/static/css/main.e33b24bf.chunk.css.map"
   }
 }
