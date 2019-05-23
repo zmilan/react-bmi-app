@@ -1,0 +1,2 @@
+.form-row{display:flex;justify-content:space-between;margin-bottom:10px}.form-row div{flex:1 1}.form-row div:nth-child(2){text-align:right!important}.form-row div.error{color:red}.form-row div input[type=text]{text-align:right;border:1px solid #a9a9a9;box-shadow:inset 0 0 4px rgba(0,0,0,.1),0 0 16px rgba(0,0,0,.1);padding:7px;background:hsla(0,0%,100%,.5);margin:0 0 10px;max-width:110px}.error-message{font-size:smaller}
+/*# sourceMappingURL=main.e33b24bf.chunk.css.map */
