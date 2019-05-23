@@ -8,7 +8,7 @@ const Calc = () => {
   const { setHeight } = useContext(HeightContext)
   const { setWeight } = useContext(WeightContext)
   let heightField = null
-  const errorMessage = 'Only number are allowed.'
+  const errorMessage = 'Only numbers are allowed.'
   const [formErrors, setFormError] = useState({ height: false, weight: false })
 
   const updateErrors = newObj => {
